@@ -1,0 +1,27 @@
+F:\OLBP\ARM\Hello World\for my personal test\bin\Debug\configs.xml
+F:\OLBP\ARM\Hello World\for my personal test\bin\Debug\Say Hello.exe
+F:\OLBP\ARM\Hello World\for my personal test\bin\Debug\Say Hello.pdb
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\About.AboutBox.resources
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.Configurations.resources
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.f_sys_passport_configs.resources
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.Properties.Resources.resources
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.SelectFile.resources
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\Say Hello.exe
+F:\OLBP\ARM\Hello World\for my personal test\obj\x86\Debug\Say Hello.pdb
+D:\ARM\Hello World\for my personal test\bin\Debug\configs.xml
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\About.AboutBox.resources
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.Configurations.resources
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.f_sys_passport_configs.resources
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.Properties.Resources.resources
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport_configurations.SelectFile.resources
+D:\ARM\Hello World\for my personal test\bin\Debug\Hello World.exe.config
+D:\ARM\Hello World\for my personal test\bin\Debug\Hello World.exe
+D:\ARM\Hello World\for my personal test\bin\Debug\Hello World.pdb
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\Hello World.exe
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\Hello World.pdb
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport.csprojResolveAssemblyReference.cache
+D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport.csproj.GenerateResource.Cache
