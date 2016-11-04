@@ -25,3 +25,6 @@ D:\ARM\Hello World\for my personal test\obj\x86\Debug\Hello World.exe
 D:\ARM\Hello World\for my personal test\obj\x86\Debug\Hello World.pdb
 D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport.csprojResolveAssemblyReference.cache
 D:\ARM\Hello World\for my personal test\obj\x86\Debug\sys_passport.csproj.GenerateResource.Cache
+D:\ARM\git Hello World\HelloWorld\for my personal test\bin\Debug\Hello World.exe.config
+D:\ARM\git Hello World\HelloWorld\for my personal test\obj\x86\Debug\Hello World.exe
+D:\ARM\git Hello World\HelloWorld\for my personal test\obj\x86\Debug\Hello World.pdb
